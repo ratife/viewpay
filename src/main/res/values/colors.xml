@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vp_blue">#28ade5</color>
+    <color name="vp_white">#ffffff</color>
+    <color name="vp_grey">#b1b1b1</color>
+    <color name="vp_transparent">#00000000</color>
+
+</resources>
