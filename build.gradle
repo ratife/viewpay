@@ -20,6 +20,7 @@ android {
 }
 
 repositories {
+	maven { url 'https://jitpack.io' }
     flatDir {
         dirs 'libs'      
     }
@@ -34,4 +35,5 @@ dependencies {
     implementation 'com.google.ads.interactivemedia.v3:interactivemedia:3.22.0'
     implementation 'com.google.android.gms:play-services-ads:18.0.0'
     implementation 'com.google.android.gms:play-services-ads-identifier:17.0.0'
+	implementation 'com.github.ratife:testIGy:-SNAPSHOT'
 }
